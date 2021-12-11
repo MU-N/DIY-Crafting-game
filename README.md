@@ -1,2 +1,2 @@
 # DIY-Crafting-game
-an old prtoyp for diy cravting game
+an old prototype for DIY Crafting Game 
